@@ -21,7 +21,7 @@
     }
   },
   "require": {
-    "php": "^7.3",
+    "php": "^7.3 || ^8.1",
     "ezsystems/ezplatform-kernel": "^1.0",
     "ezsystems/ezplatform-form-builder": "^2.0",
     "excelwebzone/recaptcha-bundle": "^1.5",
